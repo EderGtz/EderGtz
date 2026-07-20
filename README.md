@@ -1,26 +1,16 @@
-### Hi there 👋, I'm Eder!
+## 👋 Hi, I'm Eder!
 
-I'm a **Backend Developer** and Systems Engineering graduate based in Mérida, Mexico. I specialize in building event-driven architectures, fault-tolerant ETL data pipelines, and robust distributed systems. 
+<img align='right' src='https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3670A0&width=435&lines=Backend+Developer;Data+Engineer;Event-Driven+Architectures;Python+%26+Node.js' alt='Typing SVG' />
 
-I recently wrapped up an engineering role where I built stream-based ETL pipelines capable of processing 500K+ records in under 90 seconds, alongside complex bidirectional ERP integrations.
+**I'm a Backend Developer specializing in event-driven architectures, distributed systems, and currently seeking new full-time opportunities.**
 
-**I am currently looking for a new full-time role**, so if your team needs a backend or data engineer who thrives on solving concurrency and system synchronization problems, let's talk!
+🚀 **I've recently built** stream-based ETL pipelines processing 500K+ records under 90s, and bidirectional ERP integrations.
+🔭 **I'm currently focused on** my Autonomous AI Code Agent CLI and a zero-dependency Static Site Generator.
+🌱 **I'm currently learning** Go and diving deep into advanced Computer Science concepts at Boot.dev.
+✨ **Outside of code**, I'm playing acoustic guitar, reading, maintaining my turtle pond & bird aviary, or listening to Paul McCartney, Megadeth, and Jamiroquai!
 
-**Projects I've Built:**
-* **Autonomous AI Code Agent CLI:** Built a Python-based CLI agent using LLMs with working directory sandboxing and tool dispatch for autonomous file modification.
-* **Static Site Generator:** Developed a Markdown-to-HTML rendering engine entirely from scratch using the Composite Pattern with zero external dependencies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edergutierrezc) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gutierrezeder64@gmail.com) 
 
-**Continuous Learning:**
-* Deepening at advanced Computer Science concepts through the **Boot.dev** backend engineering path.
-* And, I'm learning Go at the moment
+<br>
 
-**My Core Stack:**
-* **Languages:** Python, TypeScript, Node.js, SQL, Bash
-* **Infrastructure & Architecture:** Apache Kafka, Docker, MongoDB, PostgreSQL, Event-Driven Microservices
-
-**Outside of code:** 
-When I'm not writing code, you can usually find me practicing acoustic guitar, reading, listening to Paul Mccartney, Megadeth or even Jamiroquai, or maintaining my outdoor turtle pond and bird aviary. 
-
-**📫 Let's connect:**
-* **LinkedIn:** [linkedin.com/in/edergutierrezc](https://www.linkedin.com/in/edergutierrezc)
-* **Email:** gutierrezeder64@gmail.com
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
