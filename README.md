@@ -5,8 +5,11 @@
 **I'm a Backend Developer specializing in event-driven architectures, distributed systems, and currently seeking new full-time opportunities.**
 
 🚀 **I've recently built** stream-based ETL pipelines processing 500K+ records under 90s, and bidirectional ERP integrations.
+
 🔭 **I've built** an Autonomous AI Code Agent CLI and a zero-dependency Static Site Generator.
+
 🌱 **I'm currently learning** Go and diving deep into advanced Computer Science concepts at Boot.dev.
+
 ✨ **Outside of code**, I'm playing acoustic guitar, reading, maintaining my turtle pond & bird aviary, or listening to Paul McCartney, Megadeth, and Jamiroquai!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edergutierrezc) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gutierrezeder64@gmail.com) 
