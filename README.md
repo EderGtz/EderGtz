@@ -5,7 +5,7 @@
 **I'm a Backend Developer specializing in event-driven architectures, distributed systems, and currently seeking new full-time opportunities.**
 
 🚀 **I've recently built** stream-based ETL pipelines processing 500K+ records under 90s, and bidirectional ERP integrations.
-🔭 **I'm currently focused on** my Autonomous AI Code Agent CLI and a zero-dependency Static Site Generator.
+🔭 **I've built** an Autonomous AI Code Agent CLI and a zero-dependency Static Site Generator.
 🌱 **I'm currently learning** Go and diving deep into advanced Computer Science concepts at Boot.dev.
 ✨ **Outside of code**, I'm playing acoustic guitar, reading, maintaining my turtle pond & bird aviary, or listening to Paul McCartney, Megadeth, and Jamiroquai!
 
